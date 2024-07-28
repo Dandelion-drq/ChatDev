@@ -20,7 +20,7 @@ green = (0, 255, 0)
 # Set the size of each grid block
 block_size = 20
 # Set the speed of the snake
-snake_speed = 5
+snake_speed = 10
 # Set the font style and size
 font_style = pygame.font.SysFont(None, 50)
 # Set the score font style and size
